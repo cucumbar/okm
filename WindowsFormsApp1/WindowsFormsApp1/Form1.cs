@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    class cherv : PictureBox
-    {
-        //червячок класс
-    }
+    //class cherv : PictureBox
+    //{
+    //    //червячок класс
+    //}
     public partial class Form1 : Form
     {
         public Form1()
